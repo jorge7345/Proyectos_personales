@@ -1,0 +1,13 @@
+necesito generar una web responsiva para un estudio de abogados de argentina, la cual deba verse lo mas profesional posible, en este caso vamos a hacerlo para 1 solo profesional, el cual se especializa en lo comercial. Por ende tambien debe tener un toque empresarial. Por cierto, a este abogado le apasiona el tenis, como para tenerlo en cuenta
+
+páginas clave:
+
+    Página de Inicio: Una introducción impactante que destaque la experiencia del abogado en derecho comercial, con un diseño que transmita confianza y profesionalismo.
+
+    Sección "Sobre Mí": Detalles sobre su trayectoria, especialización en derecho comercial, y cómo su pasión por el tenis influye en su enfoque y ética profesional.
+
+    Sección de Servicios: Descripción clara y concisa de los servicios ofrecidos en derecho comercial, con un enfoque en soluciones empresariales.
+
+    Sección de Testimonios: Opiniones de clientes que validen su experiencia y resultados en casos de derecho comercial.
+
+    Información de Contacto: Datos accesibles para facilitar la comunicación y agendar citas, con un diseño que refuerce la seriedad y profesionalismo.

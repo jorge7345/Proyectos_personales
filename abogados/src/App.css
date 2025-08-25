@@ -1,0 +1,15 @@
+.header-img {
+  width: 100%;       /* ocupa todo el ancho del card */
+  height: auto;      /* se ajusta de alto automáticamente */
+}
+
+@media (min-width: 992px) {
+  .header-img {
+    width: 80%;      /* en escritorio la reducís un poco */
+    margin: 0 auto;  /* centrada */
+  }
+}
+
+.bg-home{
+  background-color: blue;
+}
