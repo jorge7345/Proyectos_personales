@@ -1,4 +1,4 @@
-necesito generar una web responsiva para un estudio de abogados de argentina, la cual deba verse lo mas profesional posible, en este caso vamos a hacerlo para 1 solo profesional, el cual se especializa en lo comercial. Por ende tambien debe tener un toque empresarial. Por cierto, a este abogado le apasiona el tenis, como para tenerlo en cuenta
+necesito generar una web responsiva para un estudio de abogados de argentina, la cual deba verse lo mas profesional posible, en este caso vamos a hacerlo para 1 solo profesional, el cual se especializa en lo comercial. Por ende tambien debe tener un toque empresarial. Por cierto, a este abogado le apasiona el tenis y la musica, como para tenerlo en cuenta
 
 páginas clave:
 
